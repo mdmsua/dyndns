@@ -1,0 +1,1 @@
+record Options(string SubscriptionId, string ResourceGroupName, string ZoneName);
